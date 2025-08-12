@@ -1,4 +1,15 @@
 # CODTECH Real-time Chat Application
+COMPANY: CODE TECH IT SOLUTIONS
+
+*NAME*: SHANU RAJPUT
+
+*INTERN ID*: CT04DH2707
+
+*DOMAIN*: FRONT END DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 A modern, responsive real-time chat application built with React.js and WebSockets (Socket.IO) for the CODTECH Internship Task 2.
 
@@ -170,10 +181,9 @@ npm run build
 
 This project is created for CODTECH Internship Task 2.
 
-## 👨‍💻 Author
 
-CODTECH Intern
 
 ---
 
 **Note**: This is a real-time chat application that requires multiple users to be connected simultaneously to experience the full functionality. Open multiple browser tabs or have friends join to test the real-time features!
+
