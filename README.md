@@ -181,9 +181,14 @@ npm run build
 
 This project is created for CODTECH Internship Task 2.
 
+*output*:
+<img width="1895" height="936" alt="Image" src="https://github.com/user-attachments/assets/a2a69312-0771-45de-92fc-df98897aa17f" />
+<img width="1903" height="965" alt="Image" src="https://github.com/user-attachments/assets/ce40397a-0089-451e-a2e4-46533a01f47e" />
+<img width="1917" height="944" alt="Image" src="https://github.com/user-attachments/assets/9735feca-823a-43ed-a763-4272aaa10526" />
 
 
 ---
 
 **Note**: This is a real-time chat application that requires multiple users to be connected simultaneously to experience the full functionality. Open multiple browser tabs or have friends join to test the real-time features!
+
 
